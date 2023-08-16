@@ -1,3 +1,5 @@
+create database bd_sistema_bancario;
+\c bd_sistema_bancario;
 create table fregues (
 idfregues integer, 
 	nome varchar(30),
