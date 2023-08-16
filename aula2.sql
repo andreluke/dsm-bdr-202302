@@ -82,3 +82,4 @@ ALTER TABLE conta rename to tbl_conta;
 ALTER TABLE emprestimo rename to tbl_emprestimo;
 ALTER TABLE agencia rename to tbl_agencia;
 ALTER TABLE tbl_agencia rename column cidade_agencia to endereco_agencia;
+CREATE SCHEMA andre;
